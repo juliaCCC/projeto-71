@@ -1,0 +1,11 @@
+img {
+    width: 100%;
+}
+
+.travel_mainDiv {
+ border: 1px solid purple;
+}
+
+.travel_mainDiv h5 {
+    margin: 20px;
+}
